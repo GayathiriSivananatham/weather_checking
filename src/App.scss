@@ -1,0 +1,13 @@
+@import './styles/weather.scss';
+html,
+body {
+  // border-top:20px solid #647dee;
+  width:100%;
+  height:100vh;
+  background-color: #726cf8;
+  background-image: linear-gradient(315deg, #726cf8 0%, #e975a8 74%);
+}
+* {
+    margin: 0;
+    padding: 0;
+  }
